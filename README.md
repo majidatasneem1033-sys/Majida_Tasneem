@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/majida tasneem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majida tasneem" height="30" width="40" /></a>
+  <br><br>
 <a href="https://kaggle.com/majida tasneem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="majida tasneem" height="30" width="40" /></a>
   <br><br>
 <a href="https://www.leetcode.com/majida-tasneem99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="majida-tasneem99" height="30" width="40" /></a>
